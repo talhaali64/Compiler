@@ -1,0 +1,74 @@
+static class B
+{
+
+public static string n(int uS)
+{
+return "";
+}
+public static int Program;
+public static int C;
+
+}
+
+class D
+{
+public int[] i;
+public D[] c;
+public D[,] asc;
+public string d = "12", aq = "ass", ttt = "aaa";
+D v = new D();
+public abstract int ASD(int a, D[,] asszzx, int[] aszcvfh);
+public D[,] W(int n, D[,] r, int[,] as, D[] aq, D[] tre)
+{
+int abc = 89, o = 2, y = 1;
+string a;
+
+loop(int ia = 0; abc*o<y+2 ; ia++)
+{
+return r;
+}
+
+D[] m = new D[2];
+D p = new D();
+int[,] b = new int[2,2] {(2),(2)};
+int[] u;
+#nnn[] = 1;
+
+return r;
+
+}
+}
+class A inherit D
+{
+
+public int s;
+public A(int a)
+{
+}
+D h = new A(s);
+A l = new A(s);
+A[] I = new A[2];
+public void K(string a)
+{
+loop(int ia = 0; h.i[1] == 1 ; ia++)
+{
+B.C = 1;
+B.n(ia);
+}
+D[] I = new D[2];
+A j = new A(2);
+
+int[,] g = new int[2,2] {(2),(2)};
+
+}
+}
+class Program inherit D
+{
+public static void main(int[] args)
+{
+A bvvc = new A();
+
+int z;
+bvvc.s="abc"*3;
+}
+}

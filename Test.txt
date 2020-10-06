@@ -1,0 +1,84 @@
+abstract class E
+{
+int a;
+private int fun()
+{
+return 5; 
+}
+public static void main(string[] args)
+{
+int a;
+D d=new d();
+d.function(1 , "hello",a+b);
+}
+}
+class A inherit B
+{
+int a=b=4;
+A a=new A();
+Obj b;
+public int[] a,b;
+public int c,d;
+
+
+public A(int a,string b)
+{
+a=a;
+b=b;
+}
+
+public char[,] function(int[] a,string[,] b,O d)
+{
+
+Obj a;
+A a=new A();
+a.b(a).gn(8.9).b=9;
+a.b[a]++;
+a.c.b(a-b<c[9,9]++).d();
+a.b.c.d=1;
+a.b[a+b*c,b.c]=1;
+a=b*c;
+
+loop(int i=0;i<b.fn(a<b)+b.c/45-a.bs+s.b;i+=a+b/a)
+{
+int e;
+e=i+d;
+}
+switch(d)
+{
+case '1':
+{
+
+}
+break;
+case '2':
+{
+int[] a,g;
+return ;
+string[] h=new string[5];
+char[] j=new char[]{a+b*c,'2','3','4','5'};
+float[,] l=new float[3,3];
+int[,] k=new int[,]{(a+b,5),("asd",'4'),(a++,6.6),( 6.6, 7.7, 8.8)}
+}
+break;
+def:
+{
+;
+}
+break;
+}
+
+if(a==b)
+{
+}
+else
+{
+break;
+}
+return 'a';
+}
+} 
+abstract class B
+{
+public abstract int[,] a(int a,string[] b);
+}

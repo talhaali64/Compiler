@@ -1,0 +1,15 @@
+C:\Users\talha\Downloads\University Stuff\4th Semester\Introduction To Operating Systems\Assignment\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+C:\Users\talha\Downloads\University Stuff\4th Semester\Introduction To Operating Systems\Assignment\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.csprojResolveAssemblyReference.cache
+C:\Users\talha\Downloads\University Stuff\4th Semester\Introduction To Operating Systems\Assignment\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+C:\Users\talha\Downloads\University Stuff\4th Semester\Introduction To Operating Systems\Assignment\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
+C:\Users\talha\Downloads\University Stuff\4th Semester\Introduction To Operating Systems\Assignment\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+C:\Users\talha\Downloads\University Stuff\4th Semester\Introduction To Operating Systems\Assignment\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb
+C:\Users\talha\Downloads\University Stuff\5th Semester\Compiler Construction\Project\Final\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+C:\Users\talha\Downloads\University Stuff\5th Semester\Compiler Construction\Project\Final\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+C:\Users\talha\Downloads\University Stuff\5th Semester\Compiler Construction\Project\Final\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb
+C:\Users\Talha Ali\Downloads\University Stuff\5th Semester\Compiler Construction\Project\Final\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+C:\Users\Talha Ali\Downloads\University Stuff\5th Semester\Compiler Construction\Project\Final\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+C:\Users\Talha Ali\Downloads\University Stuff\5th Semester\Compiler Construction\Project\Final\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
+C:\Users\Talha Ali\Downloads\University Stuff\5th Semester\Compiler Construction\Project\Final\ConsoleApplication18\obj\Debug\ConsoleApplication18.csprojResolveAssemblyReference.cache
+C:\Users\Talha Ali\Downloads\University Stuff\5th Semester\Compiler Construction\Project\Final\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+C:\Users\Talha Ali\Downloads\University Stuff\5th Semester\Compiler Construction\Project\Final\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb
